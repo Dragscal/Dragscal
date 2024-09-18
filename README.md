@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dragscal
+- 👋 Hi, I’m Nicholas Baskin
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML/CSS/Javascript
 - 💞️ I’m not currently looking to collaborate.
